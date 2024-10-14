@@ -1,5 +1,5 @@
 {
-  "port": 7300,
+  "port": 9020,
   "host": "0.0.0.0",
   "pageSize": 30,
   "proxy": false,
@@ -9,7 +9,7 @@
     "keyPrefix": "[Easy Mock]",
     "port": 6379,
     "host": "localhost",
-    "password": "",
+    "password": "NEOXPX7fBlGgRror",
     "db": 0
   },
   "blackList": {
